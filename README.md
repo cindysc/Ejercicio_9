@@ -1,8 +1,23 @@
 # Ejercicio_9
-Desafío 009 - Pre-maquetado de página
+<h1>Desafío 009 - Pre-maquetado de página</h1>
 
 
 **Requisitos generales:**
+    <ul>
+        <li>Landing "Tía Tomate" sección "acerca de"</li>
+        <li>barra de navegación</li>
+            - logo
+            - links a secciones del sitio
+    	<li>4 secciones:</li>
+    		- Primera sección header título sobre un fondo
+    		- Segunda sección características del producto, imagen con texto
+    		- Tercera sección nosotros, muestra los integrantes de la empresa con foto de la persona y descripción
+    		- Cuarta sección con llamado para adquirir el producto para su negocio
+        <li>footer</li>
+            - logo
+            - Redes Sociales
+            <li>Links a otras páginas del sitio</li>
+    </ul>
     - Landing "Tía Tomate" sección "acerca de"
     - barra de navegación
         - logo
