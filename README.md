@@ -41,7 +41,7 @@
             <li>Cuarta sección 12 columnas (contenido centrado)</li>
         </ul>
 </ul>
-<h2>Requerimientos visuales:<h2>
+<h2>Requerimientos visuales:</h2>
 <ul>
 	<li> Layout:</li>
         <ul>
