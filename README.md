@@ -83,5 +83,6 @@
     <li>llamado</li>
     <li>Footer</li>
 </ol>
-<p><a target="_blank" rel="noopener noreferrer" href="/cindysc/Ejercicio_9/blob/master/img/tiatomate_desktop.jpg"><img src="/cindysc/Ejercicio_9/raw/master/img/tiatomate_desktop.jpg" alt="sketch sitio tía tomate desktop" style="max-width:100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="/cindysc/Ejercicio_9/blob/master/img/tiatomate_mobilep.jpg"><img src="/cindysc/Ejercicio_9/raw/master/img/tiatomate_mobile.jpg" alt="sketch sitio tía tomate mobile" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/cindysc/Ejercicio_9/blob/master/img/tiatomate_desktop.jpg"><img src="/img/tiatomate_desktop.jpg" alt="sketch sitio tía tomate desktop" style="max-width:80%;"></a></p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="/cindysc/Ejercicio_9/blob/master/img/tiatomate_mobilep.jpg"><img src="/img/tiatomate_mobile.jpg" alt="sketch sitio tía tomate mobile" style="max-width:40%;"></a></p>
