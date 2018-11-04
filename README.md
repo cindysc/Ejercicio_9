@@ -78,10 +78,10 @@
 <ol>
     <li>nav</li>
     <li>header</li>
-    <li>características</li>
+    <li>producto</li>
     <li>nosotros</li>
     <li>llamado</li>
     <li>Footer</li>
 </ol>
-
-<h2>clases</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="/cindysc/Ejercicio_9/blob/master/img/tiatomate_desktop.jpg"><img src="/cindysc/Ejercicio_9/raw/master/img/tiatomate_desktop.jpg" alt="sketch sitio tía tomate desktop" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/cindysc/Ejercicio_9/blob/master/img/tiatomate_mobilep.jpg"><img src="/cindysc/Ejercicio_9/raw/master/img/tiatomate_mobile.jpg" alt="sketch sitio tía tomate mobile" style="max-width:100%;"></a></p>
